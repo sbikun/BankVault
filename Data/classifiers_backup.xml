@@ -1,0 +1,72 @@
+<Classifiers>
+    <Classifier regex="24HOUR FITNESS USA,INC" majorCategory="Known Needs" minorCategory="Gym"/>
+    <Classifier regex="AMAZON GLOBAL RE DES:DIRECT DEP" majorCategory="Income" minorCategory="Paycheck"/>
+    <Classifier regex="Apeteat amazon" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="BANG BANG CAFE SEATTLE" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="BARTELL DRUGS" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="CALVIN KLEIN" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="CANTEEN VENDING" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="CHEVRON" majorCategory="Known Needs" minorCategory="Gas"/>
+    <Classifier regex="CJ'S EATERY SEATTLE WA" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="CMSVEND" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="COCO RAMEN" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="COLDSTONE" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="COMCAST CABLE COMM" majorCategory="Known Needs" minorCategory="Cable"/>
+    <Classifier regex="Condis bustamante" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="COSTCO WHSE" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="DROPBOX" majorCategory="Estimated Needs" minorCategory="Online Subscription"/>
+    <Classifier regex="EVERGREENS SALAD" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="FOREVER 21" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="FRED MEYERS" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="Free now" majorCategory="Estimated Needs" minorCategory="Taxi"/>
+    <Classifier regex="GAMESTOP" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="GARAGE CAFE" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="GOOD2GO" majorCategory="Known Needs" minorCategory="Tolls"/>
+    <Classifier regex="HOME REMEDY" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="JACK IN THE BOX" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="JCPENNY" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="JIMMY JOHNS" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="KENNETH COLE" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="Kigo Kitchen Seattle" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="Market penavel" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="MCDONALD'S" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="Millionair Club" majorCategory="Income" minorCategory="Ale Paycheck"/>
+    <Classifier regex="MOD PIZZA" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="NETFLIX" majorCategory="Known Needs" minorCategory="Netflix"/>
+    <Classifier regex="NORDSTROM" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="NOW MAKE ME A S" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="OLD NAVY USA" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="Omio" majorCategory="Extras" minorCategory="Train Tickets"/>
+    <Classifier regex="PANERA BREAD" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="PETCO" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="PETSMART" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="PLAYSTATION" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="POLLOS SAN FERNANDO" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="POTBELLY" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="PUGET SOUND ENER" majorCategory="Known Needs" minorCategory="Electric"/>
+    <Classifier regex="QFC" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="QUALITY F" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="REDBOX" majorCategory="Fun" minorCategory="Movies"/>
+    <Classifier regex="ROSS STORE" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="SHELL Service" majorCategory="Known Needs" minorCategory="Gas"/>
+    <Classifier regex="SKI LIFT INC" majorCategory="Income" minorCategory="Ale Paycheck"/>
+    <Classifier regex="Starbucks" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="STARBUCKS" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="STATE FARM" majorCategory="Known Needs" minorCategory="Insurance"/>
+    <Classifier regex="SUBWAY" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="SUMMIT AT SNOQUA DES:PAYROLL" majorCategory="Income" minorCategory="Ale Paycheck"/>
+    <Classifier regex="Sup.ex." majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="TAP HOUSE" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="The Regent at Be" majorCategory="Known Needs" minorCategory="Rent"/>
+    <Classifier regex="The Regent DES" majorCategory="Known Needs" minorCategory="Rent"/>
+    <Classifier regex="Uber eats" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="UNION 76" majorCategory="Known Needs" minorCategory="Gas"/>
+    <Classifier regex="UWAJIMAYA" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="VINASON" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="VIVO 53" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="WAREHOUSE CAFE" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="WELLS FARGO DLR" majorCategory="Known Needs" minorCategory="Car Payment"/>
+    <Classifier regex="WENDYS" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="WSDOT GOOD TO GO" majorCategory="Known Needs" minorCategory="Tolls"/>
+    <Classifier regex="YARROW BAY KIRKLAND WA" majorCategory="Known Needs" minorCategory="Gas"/>
+</Classifiers>

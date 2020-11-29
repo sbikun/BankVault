@@ -1,0 +1,42 @@
+<Classifiers>
+    <Classifier regex="24HOUR FITNESS USA,INC" majorCategory="Known Needs" minorCategory="Gym"/>
+    <Classifier regex="BARTELL DRUGS" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="CALVIN KLEIN" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="CHEVRON" majorCategory="Known Needs" minorCategory="Gas"/>
+    <Classifier regex="CMSVEND" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="COLDSTONE" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="COMCAST CABLE COMM" majorCategory="Known Needs" minorCategory="Cable"/>
+    <Classifier regex="COSTCO WHSE" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="DROPBOX" majorCategory="Estimated Needs" minorCategory="Online Subscription"/>
+    <Classifier regex="FRED MEYERS" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="Free now" majorCategory="Estimated Needs" minorCategory="Taxi"/>
+    <Classifier regex="GAMESTOP" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="HOME REMEDY" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="JACK IN THE BOX" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="JCPENNY" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="JIMMY JOHNS" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="KENNETH COLE" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="MCDONALD'S" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="NETFLIX" majorCategory="Known Needs" minorCategory="Netflix"/>
+    <Classifier regex="NORDSTROM" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="OLD NAVY USA" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="Omio" majorCategory="Extras" minorCategory="Train Tickets"/>
+    <Classifier regex="PANERA BREAD" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="PETCO" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="PETSMART" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="PLAYSTATION" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="POTBELLY" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="QFC" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="QUALITY F" majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="REDBOX" majorCategory="Fun" minorCategory="Movies"/>
+    <Classifier regex="ROSS STORE" majorCategory="Fun" minorCategory="Shopping"/>
+    <Classifier regex="SHELL Service" majorCategory="Known Needs" minorCategory="Gas"/>
+    <Classifier regex="Starbucks" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="STARBUCKS" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="STATE FARM" majorCategory="Known Needs" minorCategory="Insurance"/>
+    <Classifier regex="SUBWAY" majorCategory="Fun" minorCategory="Fast Food"/>
+    <Classifier regex="Sup.ex." majorCategory="Estimated Needs" minorCategory="Groceries"/>
+    <Classifier regex="Uber eats" majorCategory="Fun" minorCategory="Restaurants"/>
+    <Classifier regex="UNION 76" majorCategory="Known Needs" minorCategory="Gas"/>
+    <Classifier regex="WENDYS" majorCategory="Fun" minorCategory="Fast Food"/>
+</Classifiers>

@@ -1,0 +1,93 @@
+<Categories>
+    <MajorCategory name="Income">
+        <MinorCategory name="Paycheck"/>
+        <MinorCategory name="Refund"/>
+        <MinorCategory name="Bonus"/>
+        <MinorCategory name="Nice Gifts"/>
+    </MajorCategory>
+    <MajorCategory name="Known Needs">
+        <MinorCategory name="Cable"/>
+        <MinorCategory name="Electric"/>
+        <MinorCategory name="Gas"/>
+        <MinorCategory name="Gym"/>
+        <MinorCategory name="Insurance"/>
+        <MinorCategory name="Internet"/>
+        <MinorCategory name="Netflix"/>
+        <MinorCategory name="Rent"/>
+        <MinorCategory name="Tolls"/>
+        <MinorCategory name="Amazon Prime"/>
+        <MinorCategory name="Lawyer"/>
+        <MinorCategory name="Vet"/>
+        <MinorCategory name="Car Payment"/>
+        <MinorCategory name="ATM Fees"/>
+        <MinorCategory name="Therapy"/>
+    </MajorCategory>
+    <MajorCategory name="Estimated Needs">
+        <MinorCategory name="Car Repair"/>
+        <MinorCategory name="Groceries"/>
+        <MinorCategory name="Haircuts"/>
+        <MinorCategory name="Parking"/>
+        <MinorCategory name="International Calls"/>
+        <MinorCategory name="Public Transit"/>
+        <MinorCategory name="Taxi"/>
+        <MinorCategory name="Dentist"/>
+        <MinorCategory name="Govt. Fees"/>
+        <MinorCategory name="Phones"/>
+        <MinorCategory name="Credit Card Payment"/>
+        <MinorCategory name="Training"/>
+        <MinorCategory name="Online Subscription"/>
+    </MajorCategory>
+    <MajorCategory name="Extras">
+        <MinorCategory name="Charity"/>
+        <MinorCategory name="Chicago Vacation"/>
+        <MinorCategory name="Concerts"/>
+        <MinorCategory name="Gift"/>
+        <MinorCategory name="Marita"/>
+        <MinorCategory name="Portland Vacation"/>
+        <MinorCategory name="Ski Trip"/>
+        <MinorCategory name="Soccer"/>
+        <MinorCategory name="Vancouver Vacation"/>
+        <MinorCategory name="School"/>
+        <MinorCategory name="Clara"/>
+        <MinorCategory name="Peru Vacation"/>
+        <MinorCategory name="AA Layover"/>
+        <MinorCategory name="Hawaii Vacation"/>
+        <MinorCategory name="Oktoberfest"/>
+        <MinorCategory name="Credit Card Startup"/>
+        <MinorCategory name="Rush"/>
+        <MinorCategory name="Ohio Vacation"/>
+        <MinorCategory name="Volleyball"/>
+        <MinorCategory name="Korea Vacation"/>
+        <MinorCategory name="Ocean Shores"/>
+        <MinorCategory name="New Years"/>
+        <MinorCategory name="NYC Vacation"/>
+        <MinorCategory name="Plane Tickets"/>
+        <MinorCategory name="Money Transfers"/>
+        <MinorCategory name="Hotels"/>
+        <MinorCategory name="Train Tickets"/>
+    </MajorCategory>
+    <MajorCategory name="Fun">
+        <MinorCategory name="Attractions"/>
+        <MinorCategory name="Bars"/>
+        <MinorCategory name="Cash"/>
+        <MinorCategory name="Cowgirls Inc"/>
+        <MinorCategory name="Fast Food"/>
+        <MinorCategory name="Restaurants"/>
+        <MinorCategory name="Shopping"/>
+        <MinorCategory name="Movies"/>
+    </MajorCategory>
+    <MajorCategory name="Big Buys">
+        <MinorCategory name="Car"/>
+        <MinorCategory name="Flights"/>
+        <MinorCategory name="Immigration"/>
+        <MinorCategory name="Wedding"/>
+    </MajorCategory>
+    <MajorCategory name="Bonus">
+        <MinorCategory name="Credit Cards"/>
+        <MinorCategory name="Furniture"/>
+        <MinorCategory name="Steve Shopping"/>
+        <MinorCategory name="Ale Shopping"/>
+        <MinorCategory name="Moving Costs"/>
+        <MinorCategory name="Bed"/>
+    </MajorCategory>
+</Categories>

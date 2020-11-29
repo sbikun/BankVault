@@ -1,0 +1,69 @@
+<Categories>
+    <MajorCategory name="Income">
+        <MinorCategory name="Paycheck"/>
+        <MinorCategory name="Refund"/>
+        <MinorCategory name="Bonus"/>
+        <MinorCategory name="Nice Gifts"/>
+    </MajorCategory>
+    <MajorCategory name="Known Needs">
+        <MinorCategory name="Cable"/>
+        <MinorCategory name="Electric"/>
+        <MinorCategory name="Gas"/>
+        <MinorCategory name="Gym"/>
+        <MinorCategory name="Insurance"/>
+        <MinorCategory name="Internet"/>
+        <MinorCategory name="Netflix"/>
+        <MinorCategory name="Rent"/>
+        <MinorCategory name="Tolls"/>
+        <MinorCategory name="Amazon Prime"/>
+        <MinorCategory name="Lawyer"/>
+        <MinorCategory name="Vet"/>
+        <MinorCategory name="Car Payment"/>
+        <MinorCategory name="ATM Fees"/>
+    </MajorCategory>
+    <MajorCategory name="Estimated Needs">
+        <MinorCategory name="Car Repair"/>
+        <MinorCategory name="Groceries"/>
+        <MinorCategory name="Haircuts"/>
+        <MinorCategory name="Parking"/>
+        <MinorCategory name="International Calls"/>
+        <MinorCategory name="Public Transit"/>
+        <MinorCategory name="Taxi"/>
+        <MinorCategory name="Dentist"/>
+        <MinorCategory name="Govt. Fees"/>
+        <MinorCategory name="Phones"/>
+        <MinorCategory name="Credit Card Payment"/>
+        <MinorCategory name="Training"/>
+        <MinorCategory name="Online Subscription"/>
+    </MajorCategory>
+    <MajorCategory name="Extras">
+        <MinorCategory name="Charity"/>
+        <MinorCategory name="Concerts"/>
+        <MinorCategory name="Gift"/>
+        <MinorCategory name="Ski Trip"/>
+        <MinorCategory name="Soccer"/>
+        <MinorCategory name="School"/>
+        <MinorCategory name="Credit Card Startup"/>
+        <MinorCategory name="Plane Tickets"/>
+        <MinorCategory name="Money Transfers"/>
+        <MinorCategory name="Hotels"/>
+        <MinorCategory name="Train Tickets"/>
+    </MajorCategory>
+    <MajorCategory name="Fun">
+        <MinorCategory name="Attractions"/>
+        <MinorCategory name="Bars"/>
+        <MinorCategory name="Cash"/>
+        <MinorCategory name="Fast Food"/>
+        <MinorCategory name="Restaurants"/>
+        <MinorCategory name="Shopping"/>
+        <MinorCategory name="Movies"/>
+    </MajorCategory>
+    <MajorCategory name="Big Buys">
+        <MinorCategory name="Car"/>
+        <MinorCategory name="Flights"/>
+    </MajorCategory>
+    <MajorCategory name="Bonus">
+        <MinorCategory name="Credit Cards"/>
+        <MinorCategory name="Furniture"/>
+    </MajorCategory>
+</Categories>
